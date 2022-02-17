@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-chart-taiga:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-17T11:43:26.5590243-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 0e9c111628a86bf693e1b7b628b809fc8b559655636606f330c153d28c7a0ee0
+    name: helm-chart-taiga
+    type: application
+    urls:
+    - https://lubehrens.github.io/helm-chart/helm-chart-taiga-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-17T11:43:26.5570616-03:00"
